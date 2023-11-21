@@ -1,0 +1,24 @@
+NET A<0> LOC = T10;
+NET A<1> LOC = T9;
+NET A<2> LOC = V9;
+NET A<3> LOC = M8;
+NET B<0> LOC = N8;
+NET B<1> LOC = U8;
+NET B<2> LOC = V8;
+NET B<3> LOC = T5;
+
+NET Sin<0> LOC = D9;
+NET Sin<1> LOC = B8;
+NET s2 LOC = C4;
+
+NET Cout LOC = U16;
+NET Cin LOC = A8;
+
+NET segs<0> LOC = L14;
+NET segs<1> LOC = N14;
+NET segs<2> LOC = M14;
+NET segs<3> LOC = U18;
+NET segs<4> LOC = U17;
+NET segs<5> LOC = T18;
+NET segs<6> LOC = T17;
+
