@@ -25,5 +25,11 @@ Consists of an arithmetic unit and a logical unit to handle both functions based
 </table>
 <br>
 
-
+## Block Diagram Design:
 ![Complete-Block-Diagram-of-single-Stage-ALU](https://github.com/cbauma05/4-Bit-ALU/assets/116813386/cd63872c-d9bb-4e2d-8920-a3181f4b1a05)
+
+## Waveform Simulation:
+<p align = "center">
+  <img  src= "Capture.PNG" alt="waveform of simulation">
+</p>
+
