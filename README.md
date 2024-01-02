@@ -30,6 +30,6 @@ Consists of an arithmetic unit and a logical unit to handle both functions based
 
 ## Waveform Simulation:
 <p align = "center">
-  <img  src= "Capture.PNG" alt="waveform of simulation">
+  <img  src= "Waveform.PNG" alt="waveform of simulation">
 </p>
 
